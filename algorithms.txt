@@ -1,0 +1,9 @@
+
+****Robot****
+Go to the elevator by press up arrow button. When the elevator door opens while the going up light is on, get into elevator with your normal speed. I
+If there are more than 7 people already in the elevator, wait for the next one. Repeat the steps above and get into an elevator. 
+Press the floor number where you are going to on the floor board. If the floor # is pressed already, no need to press again. 
+Once the elevator stops at the floor you need to go, get off the elevator.
+
+****Real Life****
+A real life example of algorithms of mine if getting a DEVVY bike in the bike station. First, I need to walk to the DEVVY bike station right below my apertment. Find a bike which is in good condition: bell is still on, seat is not too high, and there is no red light showing in the checkout section. After selecting a bike, I need to take out my bike key and insert the key in the checkout panel. When the lgith truns into green, I need to take out the bike with some forth as the bike is a little heavy. Once the bike is taken out I need to set up my Fitbit to Biking mode and start my journey with the bike.  
